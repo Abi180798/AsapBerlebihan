@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "499605255484",
+    "firebase_url": "https://asap-a1ef8.firebaseio.com",
+    "project_id": "asap-a1ef8",
+    "storage_bucket": "asap-a1ef8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499605255484:android:deedeb346603d3a3",
+        "android_client_info": {
+          "package_name": "com.example.asapproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499605255484-vcals5j8k22dl8jpum6va6jub9kre9o4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asapproject",
+            "certificate_hash": "59c62d4fc50bb5ce2a4b050a364ded3c582cccc1"
+          }
+        },
+        {
+          "client_id": "499605255484-urttid3ks1hvi4rsb08aefi4edtk3sns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu5F1OT1jnI4ckI36nS8AJq32QkSY38Hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499605255484-urttid3ks1hvi4rsb08aefi4edtk3sns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
